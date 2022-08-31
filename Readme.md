@@ -4,11 +4,11 @@ This is the releasing code for the paper: ["Important Node Mining based on Perso
 
 Readers are welcomed to fork this repository to reproduce the experiments and follow our work. Please kindly cite our paper.
 
-    @article{zhao2020ranking,
+    @article{zhao2022ranking,
     title={Important Node Mining based on Personalized Temporal Motif PageRank in Directed Temporal Network},
     author={Xiuming Zhao and Jianpeng Zhang and Hongtao Yu and Zheng Wu and Yiteng Wu},
-    journal={DATA MINING AND KNOWLEDGE DISCOVERY},
-    year={2021},
+    journal={IJMPC},
+    year={2022},
     }
 
 
